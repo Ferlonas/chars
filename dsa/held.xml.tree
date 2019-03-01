@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tree>
+<gruppe name="Helden">
+<gruppe name="Neu">
+<heldID id="1547749976787"/>
+<heldID id="1546745195518"/>
+<heldID id="1546460526072"/>
+<heldID id="1546460526071"/>
+</gruppe>
+</gruppe>
+</tree>
